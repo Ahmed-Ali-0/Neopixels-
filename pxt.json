@@ -1,0 +1,21 @@
+{
+    "name": "Untitled",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "crickit": "github:adafruit/pxt-crickit#v0.0.31",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
